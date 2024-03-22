@@ -3,7 +3,7 @@ def ada():
     last_name = "LoVeLAce"
     full_name = "AdA" + "LoVeLAce"
     print(full_name.lower())
-    print(full_name.tittle())
+    print(first_name.title() + last_name.title())
     print(full_name.upper())
     print("\t"+ full_name.lower())
     
